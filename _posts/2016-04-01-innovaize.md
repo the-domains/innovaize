@@ -5,24 +5,26 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: undefined
-datePublished: '2016-04-01T23:01:35.897Z'
-dateModified: '2016-04-01T23:01:24.834Z'
+description: "Somos una empresa de creatividad, mercadeo y publicidad, con especialidad en lo aún desconocido, nos apasiona nuestro trabajo tanto como la vida y creemos que el desaprender es parte de nuestra cualidad creativa, estamos seguros de que no sabemos ni a la precisión, ni al detalle lo que deseas, por eso queremos emprender un viaje de progresos creativos para evolucionar contigo.\_"
+datePublished: '2016-04-01T23:02:22.439Z'
+dateModified: '2016-04-01T23:02:16.169Z'
 author: []
 title: INNOVAIZE
+sourcePath: _posts/2016-04-01-innovaize.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-innovaize.md
-published: true
 url: innovaize/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d45646e-7be5-4a0a-a612-f1f847293867.jpg)
+
 ## Creados con \*Inteligencia Artificial
 
 Somos una empresa de creatividad, mercadeo y publicidad, con especialidad en lo aún desconocido, nos apasiona nuestro trabajo tanto como la vida y creemos que el desaprender es parte de nuestra cualidad creativa, estamos seguros de que no sabemos ni a la precisión, ni al detalle lo que deseas, por eso queremos emprender un viaje de progresos creativos para evolucionar contigo. 

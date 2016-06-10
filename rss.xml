@@ -4,7 +4,7 @@
         <description><![CDATA[Inteligencia Progresiva]]></description>
         <link>http://www.innovaize.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 23:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 02:09:20 GMT</lastBuildDate>
         <atom:link href="http://www.innovaize.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[INTELIGENCIA PROGRESIVA]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.innovaize.com/34f62fd1-fd69-4f28-a0f8-696f72c431a4/index.html</link>
             <guid isPermaLink="false">34f62fd1-fd69-4f28-a0f8-696f72c431a4</guid>
             <pubDate>Fri, 01 Apr 2016 23:26:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contactos]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f92e0f1-4eeb-482f-ba0f-d126063a0bd1.png">]]></description>
+            <link>http://www.innovaize.com/contactos/index.html</link>
+            <guid isPermaLink="false">d478f255-e621-4549-98d0-f164f91fa559</guid>
+            <pubDate>Fri, 10 Jun 2016 02:08:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

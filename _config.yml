@@ -38,4 +38,5 @@ collections:
     permalink:
       path: '/:title/'
 title: INNOVAIZE
+description: Inteligencia Progresiva
 purpose: []

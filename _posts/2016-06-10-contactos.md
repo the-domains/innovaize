@@ -1,27 +1,28 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: Horacio A. Vega Enríquez
-datePublished: '2016-06-10T02:08:21.670Z'
-dateModified: '2016-06-10T02:08:18.455Z'
-title: ''
-author: []
-authors: []
-publisher: null
-starred: false
+datePublished: '2016-08-27T17:27:41.450Z'
 sourcePath: _posts/2016-06-10-contactos.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-27T17:27:41.116Z'
+title: ''
+publisher: {}
+description: Horacio A. Vega Enríquez
+inLanguage: null
+inNav: true
+starred: false
 url: contactos/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f92e0f1-4eeb-482f-ba0f-d126063a0bd1.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca6d7efc52e45c3faa212b971208d93ad506db98.png)
 
 Horacio A. Vega Enríquez
 
 +(505) 8739 6323
 
 horacio.vega@innovaize.com
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/518a0e96-cbd0-4c1f-8091-608e102ab0f5.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/353014a011dad59484eccb69b0504403ca272c00.png)

@@ -1,8 +1,30 @@
-name: INNOVAIZE
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.53142
-title: Inteligencia Progresiva
+color:
+  brandColors:
+    - '#1e2d3f'
+    - '#ffffff'
+    - '#cfd2d6'
+    - '#a0a6ae'
+    - '#767e88'
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: UA-49652141-1
+  facebook: null
+  twitter: null
+name: INNOVAIZE
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-49652141-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#1e2d3f'
-    - '#ffffff'
-    - '#cfd2d6'
-    - '#a0a6ae'
-    - '#767e88'
-  brandStrength: 1
-  lightness: 0.625
-  saturation: 0.625
-  rhythmicContrast: 1
+title: INNOVAIZE
 purpose: []

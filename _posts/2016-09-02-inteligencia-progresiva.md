@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-02T20:12:10.370Z'
+datePublished: '2016-09-02T20:15:29.952Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-02T20:12:06.320Z'
+dateModified: '2016-09-02T20:15:29.701Z'
 title: INTELIGENCIA PROGRESIVA
 publisher: {}
 description: >-
@@ -12,8 +12,8 @@ description: >-
   que el desaprender es parte de nuestra cualidad creativa, estamos seguros de
   que no sabemos ni a la precisión, ni al detalle lo que deseas, por eso
   queremos emprender un viaje de progresos creativos para evolucionar contigo.
-starred: false
 sourcePath: _posts/2016-09-02-inteligencia-progresiva.md
+starred: false
 _type: Blurb
 
 ---

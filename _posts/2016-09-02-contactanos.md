@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-09-02T19:03:35.978Z'
+datePublished: '2016-09-02T19:04:25.932Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-02T19:03:35.691Z'
+dateModified: '2016-09-02T19:04:25.511Z'
 title: CONTACTANOS
 publisher: {}
 description: ''
 sourcePath: _posts/2016-09-02-contactanos.md
+hasPage: true
 starred: false
-_type: Blurb
+url: contactanos/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b33003b-876e-4624-aefd-45363b51e0a9.jpg)

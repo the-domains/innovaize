@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T19:45:55.709Z'
+datePublished: '2016-09-02T20:03:58.837Z'
 sourcePath: _posts/2016-09-02-nuestra-especialidad.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T19:45:55.301Z'
+dateModified: '2016-09-02T20:03:58.087Z'
 title: NUESTRA ESPECIALIDAD
 publisher: {}
 description: >-
@@ -24,12 +24,10 @@ _type: Article
 
 INNOVAIZE provee un diverso menú de servicios de tecnología y marketing hechos a la medida de nuestros clientes. Nuestro objetivo principal está en promover el crecimiento de las oportunidades de negocios con productos funcionales y ajustables a la medida de nuestros clientes.
 
-### Deja que el mundo conozca tus ideas, nosotros te guiamos en pasos simples e inversiones accesibles con estratregias escalables para alcanzar tu objetivo.
+Deja que el mundo conozca tus ideas, nosotros te guiamos en pasos simples e inversiones accesibles con estratregias escalables para alcanzar tu objetivo.
 
-### Nuestra misión mas importante es tu visión!
+Nuestra misión mas importante es tu visión!
 
-### SERVICIOS WEB
-
-### ADMINISTRACION DE REDES
+### SERVICIOS DISEÑO, WEB & SOCIAL MEDIA
 
 ### SISTEMAS DE FACTURACION

@@ -1,4 +1,3 @@
-layout_spectrum: 0.5482183613348752
 typography_spectrum: 0.5604216258507222
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5482183613348752
 analytics:
   google: UA-49652141-1
   facebook: null
@@ -29,9 +29,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: SOMOS INTELIGENCIA PROGRESIVA
-    id: 34f62fd1-fd69-4f28-a0f8-696f72c431a4
-    type: content
   - name: NUESTRA ESPECIALIDAD
     id: c9c1ebd8-2e7d-4791-ba38-d0573f8b0653
     type: content

@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-02T18:58:53.294Z'
+datePublished: '2016-09-02T19:03:35.973Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-02T18:52:44.066Z'
+dateModified: '2016-09-02T19:03:35.691Z'
 title: NUESTRA ESPECIALIDAD
 publisher: {}
 description: >-
@@ -11,8 +11,8 @@ description: >-
   hechos a la medida de las necesidades de nuestros clientes. Nuestro objetivo
   principal está en promover el crecimiento y la expansión de sus mercados,
   desarrollando productos rentables y mejorando la eficiencia de sus negocios.
-starred: false
 sourcePath: _posts/2016-09-02-nuestra-especialidad.md
+starred: false
 _type: Blurb
 
 ---

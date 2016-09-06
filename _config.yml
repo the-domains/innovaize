@@ -29,9 +29,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: NUESTRA ESPECIALIDAD
-    id: c9c1ebd8-2e7d-4791-ba38-d0573f8b0653
-    type: content
   - name: CONTACTANOS
     id: c516af43-294b-4117-a537-7848444de023
     type: content

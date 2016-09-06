@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-02T19:03:35.973Z'
+datePublished: '2016-09-02T19:04:15.969Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-02T19:03:35.691Z'
+dateModified: '2016-09-02T19:04:15.494Z'
 title: NUESTRA ESPECIALIDAD
 publisher: {}
 description: >-
@@ -12,8 +12,10 @@ description: >-
   principal está en promover el crecimiento y la expansión de sus mercados,
   desarrollando productos rentables y mejorando la eficiencia de sus negocios.
 sourcePath: _posts/2016-09-02-nuestra-especialidad.md
+hasPage: true
 starred: false
-_type: Blurb
+url: nuestra-especialidad/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9dbbab4-95d0-4b78-9c60-bac32c3270b3.jpg)

@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: INTELIGENCIA PROGRESIVA
+    id: b6054cd4-b802-451d-8ff0-3721a1cd8e01
+    type: content
 favicon: null
 collections:
   - index:

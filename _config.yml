@@ -32,6 +32,9 @@ navigation:
   - name: INTELIGENCIA PROGRESIVA
     id: b6054cd4-b802-451d-8ff0-3721a1cd8e01
     type: content
+  - name: NUESTRA ESPECIALIDAD
+    id: d3ecb41c-7c2b-460b-890c-760f5783b2c3
+    type: content
 favicon: null
 collections:
   - index:

@@ -19,6 +19,10 @@ analytics:
   google: UA-49652141-1
   facebook: null
   twitter: null
+author:
+  name: Innovaize
+  email: info@innovaize.com
+  url: www.innovaize.com
 name: INNOVAIZE
 cta:
   domain: null

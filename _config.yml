@@ -28,10 +28,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: CONTACTO
-    id: 2655057c-5c71-4531-af3c-2ce12851f9f2
-    type: content
 favicon: null
 collections:
   - index:

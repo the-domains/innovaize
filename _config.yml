@@ -28,10 +28,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: CONTACTANOS
-    id: c516af43-294b-4117-a537-7848444de023
-    type: content
 favicon: null
 collections:
   - index:

@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-09-02T19:04:15.969Z'
+datePublished: '2016-09-02T19:17:36.826Z'
+sourcePath: _posts/2016-09-02-nuestra-especialidad.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T19:04:15.494Z'
+dateModified: '2016-09-02T19:17:36.284Z'
 title: NUESTRA ESPECIALIDAD
 publisher: {}
 description: >-
@@ -11,14 +13,12 @@ description: >-
   hechos a la medida de las necesidades de nuestros clientes. Nuestro objetivo
   principal está en promover el crecimiento y la expansión de sus mercados,
   desarrollando productos rentables y mejorando la eficiencia de sus negocios.
-sourcePath: _posts/2016-09-02-nuestra-especialidad.md
-hasPage: true
 starred: false
 url: nuestra-especialidad/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9dbbab4-95d0-4b78-9c60-bac32c3270b3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af2f2a47-a21d-43f8-b8c9-79d6e67dfb51.jpg)
 
 # NUESTRA ESPECIALIDAD
 
